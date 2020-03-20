@@ -1,0 +1,26 @@
+{
+    "root": "/Users/michael/Google Drive/lambda/4-2/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/michael-rowland/DS-Unit-4-Sprint-2-Neural-Networks",
+        "commit": "6ac2d2f2e8c809d63701860848b7f080c6ef5037"
+    },
+    "email": "mrowland13@gmail.com",
+    "startedAt": "2020-03-19T17:54:39.985079",
+    "host": "Michaels-MacBook-Pro.local",
+    "username": "Michael",
+    "executable": "/Users/michael/opt/anaconda3/envs/4-2/bin/python",
+    "os": "Darwin-19.3.0-x86_64-i386-64bit",
+    "python": "3.7.0",
+    "cpu_count": 8,
+    "args": [
+        "-f",
+        "/Users/michael/Library/Jupyter/runtime/kernel-05e6e9e3-7818-4aa4-bd0c-ccd4630e7cd7.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "electric-totem-19",
+    "project": "ds11_inclass",
+    "heartbeatAt": "2020-03-19T17:54:48.142712"
+}
